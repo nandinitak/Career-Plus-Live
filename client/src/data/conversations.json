@@ -1,0 +1,136 @@
+{
+  "conversations": [
+    {
+      "id": "conv1",
+      "profile": "https://static.vecteezy.com/system/resources/thumbnails/049/174/246/small/a-smiling-young-indian-man-with-formal-shirts-outdoors-photo.jpg",
+      "username": "rahul_dev",
+      "fullName": "Rahul Sharma",
+      "title": "Senior Backend Developer",
+      "messages": [
+        {
+          "sender": "You",
+          "message": "See you later, Rahul!",
+          "timestamp": "2024-08-24T11:15:15"
+        },
+        {
+          "sender": "Rahul",
+          "message": "Alright, talk to you later!",
+          "timestamp": "2024-08-24T11:11:30"
+        },
+        {
+          "sender": "You",
+          "message": "For sure. Anyway, I should get back to reviewing the project.",
+          "timestamp": "2024-08-23T09:26:50"
+        },
+        {
+          "sender": "Rahul",
+          "message": "Yeah, let me know your feedback.",
+          "timestamp": "2024-08-23T09:25:15"
+        },
+        {
+          "sender": "You",
+          "message": "Oh, nice! I've been waiting for that. I'll check it out later.",
+          "timestamp": "2024-08-23T09:24:30"
+        },
+        {
+          "sender": "Rahul",
+          "message": "They've added a dark mode option! It looks so smooth.",
+          "timestamp": "2024-08-23T09:23:10"
+        },
+        {
+          "sender": "You",
+          "message": "No, not yet. What's new?",
+          "timestamp": "2024-08-23T09:22:00"
+        },
+        {
+          "sender": "Rahul",
+          "message": "By the way, did you check out the new feature update?",
+          "timestamp": "2024-08-23T09:21:05"
+        },
+        {
+          "sender": "You",
+          "message": "Will do! Thanks, Rahul.",
+          "timestamp": "2024-08-23T09:20:10"
+        },
+        {
+          "sender": "Rahul",
+          "message": "Great! Let me know if you need any help.",
+          "timestamp": "2024-08-23T09:19:20"
+        },
+        {
+          "sender": "You",
+          "message": "Almost done. Just need to review a few things.",
+          "timestamp": "2024-08-23T09:18:45"
+        },
+        {
+          "sender": "Rahul",
+          "message": "I'm good, yaar! Did you finish the project?",
+          "timestamp": "2024-08-23T09:17:10"
+        },
+        {
+          "sender": "You",
+          "message": "Hey Rahul, I'm doing well! How about you?",
+          "timestamp": "2024-08-23T09:16:30"
+        },
+        {
+          "sender": "Rahul",
+          "message": "Hey Ankit, kaise ho?",
+          "timestamp": "2024-08-23T09:15:00"
+        }
+      ]
+    },
+    {
+      "id": "conv2",
+      "profile": "https://media.istockphoto.com/id/1483473258/photo/smiling-young-woman-professional-in-formal-wear-with-arms-crossed-and-looking-at-camera.jpg?s=612x612&w=0&k=20&c=GONEgP4Dcxbj66r3KcA6LpoZGWcOEaiUGEcXjOuBybE=",
+      "username": "sneha.codes",
+      "fullName": "Sneha Agarwal",
+      "title": "Tech Lead",
+      "messages": [
+        {
+          "sender": "Sneha",
+          "message": "Yeah, it's explained really well. You should try it out.",
+          "timestamp": "2024-08-23T10:35:00"
+        },
+        {
+          "sender": "You",
+          "message": "Not yet, is it good?",
+          "timestamp": "2024-08-23T10:32:00"
+        },
+        {
+          "sender": "Sneha",
+          "message": "Hey, did you check out that new YouTube tutorial?",
+          "timestamp": "2024-08-23T10:30:00"
+        }
+      ]
+    },
+    {
+      "id": "conv3",
+      "profile": "https://t3.ftcdn.net/jpg/06/11/89/42/360_F_611894278_6sIqAi9Akdrw9aNulK77WHPJJHJFWTV0.jpg",
+      "username": "amit_tester",
+      "fullName": "Amit Mishra",
+      "title": "QA",
+      "messages": [
+        {
+          "sender": "You",
+          "message": "Yes, see you tomorrow. 👋🏼",
+          "timestamp": "2024-08-22T18:59:00"
+        },
+        {
+          "sender": "Amit",
+          "message": "Perfect! See you then.",
+          "timestamp": "2024-08-22T18:55:00"
+        },
+        {
+          "sender": "You",
+          "message": "Yes, usual time. I'll send the invite now.",
+          "timestamp": "2024-08-22T18:50:00"
+        },
+        {
+          "sender": "Amit",
+          "message": "Are we still on for the meeting kal subah?",
+          "timestamp": "2024-08-22T18:45:00"
+        }
+      ]
+    }
+  ]
+}
